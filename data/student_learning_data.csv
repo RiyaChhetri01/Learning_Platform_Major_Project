@@ -1,0 +1,22 @@
+student_id,subject,topic,score,learning_style
+5,Python,Functions,88,Visual
+5,Python,OOP,88,Visual
+10,Python,OOP,88,Audio-Visual
+10,DSA,General,88,Audio-Visual
+10,DSA,Stack,83,Audio-Visual
+8,DBMS,Joins,29,Kinesthetic
+8,OS,General,29,Kinesthetic
+8,OS,Scheduling,29,Kinesthetic
+8,Python,General,29,Kinesthetic
+8,Python,Loops,40,Kinesthetic
+3,CN,OSI Model,20,Visual
+3,OS,General,20,Visual
+3,OS,Threads,86,Audio-Visual
+10,Python,Functions,75,Visual
+10,Python,File Handling,75,Visual
+10,Python,Loops,67,Visual
+5,DSA,Queue,28,Audio-Visual
+5,OS,General,28,Audio-Visual
+5,OS,Processes,82,Audio-Visual
+8,OS,Processes,32,Audio-Visual
+10,Python,General,24,Visual

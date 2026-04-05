@@ -1,0 +1,13 @@
+student_id,subject,topic,score,learning_style
+10,Python,OOP,79,Audio-Visual
+10,Python,Functions,87,Audio-Visual
+5,Python,Functions,96,Kinesthetic
+5,DSA,General,96,Kinesthetic
+5,DSA,Arrays,96,Kinesthetic
+8,DSA,Arrays,48,Visual
+8,OS,General,48,Visual
+8,Python,General,48,Visual
+8,Python,OOP,48,Visual
+6,Python,Functions,69,Audio-Visual
+6,DSA,General,69,Audio-Visual
+6,DSA,Arrays,66,Audio-Visual

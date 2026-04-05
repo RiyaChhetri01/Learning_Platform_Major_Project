@@ -1,0 +1,20 @@
+student_id,topic,status
+5,Functions,Strong
+5,OOP,Strong
+10,Stack,Strong
+8,Joins,Weak
+8,Scheduling,Weak
+8,General,Weak
+8,Loops,Neutral
+3,OSI Model,Weak
+3,General,Weak
+3,Threads,Strong
+5,Queue,Weak
+5,General,Weak
+5,Processes,Strong
+8,Processes,Weak
+10,File Handling,Strong
+10,Functions,Strong
+10,General,Weak
+10,Loops,Neutral
+10,OOP,Strong

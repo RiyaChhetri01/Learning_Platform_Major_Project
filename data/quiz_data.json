@@ -1,0 +1,32 @@
+[
+    {
+        "topic": "Arrays",
+        "difficulty": "Easy",
+        "questions": 5,
+        "link": "https://www.hackerrank.com/domains/data-structures/arrays"
+    },
+    {
+        "topic": "Loops",
+        "difficulty": "Easy",
+        "questions": 5,
+        "link": "https://www.hackerrank.com/domains/tutorials/10-days-of-javascript"
+    },
+    {
+        "topic": "DBMS",
+        "difficulty": "Medium",
+        "questions": 7,
+        "link": "https://www.geeksforgeeks.org/dbms/"
+    },
+    {
+        "topic": "OS",
+        "difficulty": "Medium",
+        "questions": 7,
+        "link": "https://www.geeksforgeeks.org/operating-systems/"
+    },
+    {
+        "topic": "OSI Model",
+        "difficulty": "Hard",
+        "questions": 10,
+        "link": "https://www.geeksforgeeks.org/open-systems-interconnection-model-os-model/"
+    }
+]
